@@ -14,21 +14,15 @@ Aprende Ansible desde sus fundamentos teóricos, pasando por el lenguaje YAML y 
 
 > El índice sigue rigurosamente el contenido y la estructura de los slides oficiales del curso.
 
-### Mapa Rápido del Curso
+### Ruta Rápida Del Programa
 
-```mermaid
-flowchart TD
-    A["¿Qué es Ansible?<br>(Conceptos y Push)"] --> B["Introducción a YAML<br>(Sintaxis y Estructuras)"]
-    B --> C["Preparación del Laboratorio<br>(VirtualBox + Docker Compose)"]
-    C --> D["Comandos Ad-Hoc<br>(Módulos y ping/setup)"]
-    D --> E["Primer Playbook<br>(Playbook Nginx e Idempotencia)"]
-
-    style A fill:#1f6feb,stroke:#58a6ff,color:#fff
-    style B fill:#30363d,stroke:#8b949e,color:#fff
-    style C fill:#8957e5,stroke:#bc8cff,color:#fff
-    style D fill:#9e6a03,stroke:#d29922,color:#fff
-    style E fill:#238636,stroke:#3fb950,color:#fff
-```
+| Etapa | Enfoque | Resultado esperado |
+|:---:|---|---|
+| **1** | ¿Qué es Ansible y por qué automatizar? | Entender el funcionamiento del modelo *Push* por SSH y las ventajas de la filosofía declarativa. |
+| **2** | Introducción al lenguaje YAML | Escribir y estructurar variables, listas y mapas en formato YAML sin errores de indentación. |
+| **3** | Preparación del entorno y laboratorio | Levantar una infraestructura multi-servidor interconectada con Docker Compose para realizar pruebas. |
+| **4** | Primeros pasos con comandos Ad-Hoc | Gestionar e inspeccionar servidores remotos en tiempo real mediante comandos rápidos de una línea. |
+| **5** | Desarrollo de tu primer Playbook | Escribir y ejecutar un playbook de despliegue para Nginx, asegurando que sea repetible e idempotente. |
 
 ## Laboratorios
 

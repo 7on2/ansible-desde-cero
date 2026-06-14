@@ -31,6 +31,7 @@ Aprende Ansible desde sus fundamentos teóricos, pasando por el lenguaje YAML y 
 | 01. Autobiografía YAML | Práctica guiada de estructuración, mapas, listas y formato en YAML. | [Abrir](./laboratorios/01-autobiografia-yaml.md) |
 | 02. Comandos Ad-Hoc | Pruebas de conectividad y gestión remota rápida de servidores. | [Abrir](./laboratorios/02-comandos-ad-hoc.md) |
 | 03. Despliegue de Nginx | Creación, ejecución y verificación de un playbook automatizado e idempotente. | [Abrir](./laboratorios/03-primer-playbook-nginx.md) |
+| 04. Handlers | Uso de handlers para ejecutar tareas condicionales solo cuando hay cambios. | [Abrir](./laboratorios/04-handlers.md) |
 
 ## Material de Apoyo
 

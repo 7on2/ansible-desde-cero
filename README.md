@@ -44,4 +44,5 @@ Aprende Ansible desde sus fundamentos teóricos, pasando por el lenguaje YAML y 
 
 | Material | Descripción |
 |---|---|
-| [Slides completos](./material/Sesion01.pdf) | Slides Completo del curso |
+| [Programa Completo Ansible](./material/Programa%20Completo%20Ansible.pdf) | PDF completo con todas las sesiones del curso |
+| [Sesion01](./material/Sesion01.pdf) | Slides de la primera sesión |
